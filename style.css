@@ -1,0 +1,23 @@
+.right-box{
+    margin-bottom: 10%;
+}
+.image{
+    border-radius: 100%;
+    margin:"10px";
+width:50%;
+height:100%;
+
+}
+.container{
+    border-width: "10px";
+    border-color: black;
+    background-color: rgb(3, 117, 121);
+    
+}
+.img{
+    width:50%;
+    display:inline;
+    border: 2px solid black; 
+    padding: 20px;
+
+}
